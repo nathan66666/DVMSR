@@ -1,7 +1,7 @@
 # DVMSR
 This repository contains the source code for our paper:
 
-[DVMSR: Distillated Vision Mamba for Efficient Super-Resolution](https://arxiv.org/abs/2405.03008)
+[DVMSR: Distillated Vision Mamba for Efficient Super-Resolution](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Lei_DVMSR_Distillated_Vision_Mamba_for_Efficient_Super-Resolution_CVPRW_2024_paper.pdf)
 
 CVPRW 2024
 
